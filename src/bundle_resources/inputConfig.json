@@ -1,0 +1,18 @@
+[
+  {
+    "handle": "w",
+    "keys": ["w", "W"]
+  },
+  {
+    "handle": "s",
+    "keys": ["s", "S"]
+  },
+  {
+    "handle": "a",
+    "keys": ["a", "A"]
+  },
+  {
+    "handle": "d",
+    "keys": ["d", "D"]
+  }
+]
